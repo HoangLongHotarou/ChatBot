@@ -1,2 +1,0 @@
-a = {'thẩm định giá trị mua sắm, thuê hàng hoá, dịch vụ (trừ hoá chất, vật tư y tế), và ý kiến về giá dự toán đối với hóa chất, vật tư y tế thuộc thẩm quyền quyết định của chủ tịch ubnd thành phố; ý kiến về giá mua sắm tài sản công thuộc thẩm quyền quyết định của chủ tịch ubnd thành phố hoặc ubnd thành phố':2}
-print(a)
