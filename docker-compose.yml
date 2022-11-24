@@ -18,6 +18,6 @@ services:
     ports:
       - '80:8000'
     volumes:
-      - ./ChatBot:/api
+      - ./chatbot:/chatbot
     depends_on:
       - mysqldb
